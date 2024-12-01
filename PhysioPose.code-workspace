@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Physio_dataset/valid"
+		},
+		{
+			"path": "../../../Downloads/Physio_dataset/train"
+		},
+		{
+			"path": "../../../Downloads/Physio_dataset/test"
+		}
+	],
+	"settings": {}
+}
